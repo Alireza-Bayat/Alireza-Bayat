@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Alireza-Bayat
-- 👀 A software engineer who loves to read and learn more about technology and physics. I enjoy solving problems and reading/implementing algorithms.
-- I’m currently working as a software engineer in Realworks B.V. located in Amsterdam.
-- I’m looking to collaborate on optimization and problem solving in software especially frameworks.
-- If you think we can share our knowledge please feel free to contact me on `a.rza.byt@gmail.com`
-- you can see more detail about me on my *[Personal Page](https://alireza-bayat.github.io)*.
+- 👋 Hi, I'm @Alireza-Bayat, a software engineer who loves diving into tech and physics. I enjoy solving problems and tinkering with algorithms.
+- 💻 Currently, I'm working as a software engineer at Realworks B.V. in Amsterdam.
+- 🔍 I'm into making software work better and solving issues.
+- 🤝 If you're up for sharing knowledge and working together, feel free to drop me a line at `a.rza.byt@gmail.com`.
+- 🌐 You can find more about me on my [Personal Page](https://alirezabayat.site). Let's connect and explore the tech world together!
